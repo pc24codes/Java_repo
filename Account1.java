@@ -9,7 +9,7 @@ public class Account1 {
 //		choice =5; // the input from user.
 		
 		
-		switch(1) {
+		switch(2) {
 		
 		case 1:
 			System.out.println("Welcome to Balance enquiry section");
