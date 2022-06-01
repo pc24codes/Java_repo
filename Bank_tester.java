@@ -6,9 +6,9 @@ public class Bank_tester {
 		// TODO Auto-generated method stub
 
 		Bank_main b1 = new Bank_main();
-		b1.BankName = "SBI";
+		b1.BankName = "HDFC";
 		b1.Area= "hyderabad";
-		b1.phonenumber= 123456789;
+		b1.phonenumber= 884574452;
 		b1.getDetails();
 	}
 
