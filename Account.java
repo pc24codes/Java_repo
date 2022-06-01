@@ -14,7 +14,7 @@ private double balance = 500.0;
 		// TODO Auto-generated method stub
 		Account a1 = new Account();
 		
-		double value = a1.getBalance(123456);
+		double value = a1.getBalance(123446);
 		System.out.println(value);
 		
 	}
