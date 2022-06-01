@@ -9,7 +9,7 @@ public class Bank_main {
 	
 	public void getDetails(){
 		
-		System.out.println("******The details of the bank are******");
+		System.out.println("******Details of the Bank are******");
 		
 		System.out.println("Name of the Bank: " + BankName);
 		System.out.println("Contact details: " + phonenumber);
