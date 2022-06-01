@@ -11,7 +11,7 @@ public class Deposit1 {
 		Scanner sc = new Scanner(System.in);
 		
 		do {
-			
+			System.out.println("Welcome to the Bank!");
 			System.out.println("Please enter an amount to deposit");
 			depAmt=sc.nextInt();
 			
